@@ -1,3 +1,9 @@
+# Loading data from the files using sqllite and pandas,
+# Cleaning the data and transforming it,
+# Creating multiple analysis KPI's such as churn rate, revenue loss, churn by state, customer life time value and many other.
+
+
+
 # import lib
 
 import sqlite3
