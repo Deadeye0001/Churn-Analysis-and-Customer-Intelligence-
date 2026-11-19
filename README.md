@@ -266,9 +266,3 @@ customer retention decisions.
 -   Correlation Analysis
 -   Business Intelligence
 -   Data-Driven Decision Making
-
-------------------------------------------------------------------------
-
-**Dataset note:** This project uses a small sample dataset of 21
-customer records. Findings are exploratory and should be validated
-against a larger dataset before making operational business decisions.
